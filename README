@@ -1,0 +1,13 @@
+Algorithms
+Project 5: Hill Climbing Bikers
+Author: Jonathan Hang
+
+
+This package contains a program in Python that prints out the smallest maximum absolute value for any path from start to end.
+
+To compile and run the Python program, type in the terminal
+	$ python py5.py < input
+
+input being the test file
+
+
